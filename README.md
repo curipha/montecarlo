@@ -79,7 +79,6 @@ or
 luac -s monte.lua
 lua luac.out
 ```
-dd
 
 ### Maybe added in the future...
 
