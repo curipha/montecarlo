@@ -58,6 +58,29 @@ rustc -O montecarlo.rs
 ./montecarlo
 ```
 
+### Lua
+
+http://www.lua.org/
+
+```
+lua monte.lua
+```
+
+or
+
+```
+chmod +x monte.lua
+./monte.lua
+```
+
+or
+
+```
+luac -s monte.lua
+lua luac.out
+```
+dd
+
 ### Maybe added in the future...
 
 - Go
