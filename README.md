@@ -42,7 +42,7 @@ chmod +x montecarlo.rb
 
 ### Nim
 
-http://nim-lang.org/
+https://nim-lang.org/
 
 ```
 nim c -d:release montecarlo.nim
@@ -51,7 +51,7 @@ nim c -d:release montecarlo.nim
 
 ### Rust
 
-http://www.rust-lang.org/
+https://www.rust-lang.org/
 
 ```
 rustc -O montecarlo.rs
@@ -60,7 +60,7 @@ rustc -O montecarlo.rs
 
 ### Lua
 
-http://www.lua.org/
+https://www.lua.org/
 
 ```
 lua monte.lua
