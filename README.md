@@ -63,20 +63,20 @@ rustc -O montecarlo.rs
 https://www.lua.org/
 
 ```
-lua monte.lua
+lua montecarlo.lua
 ```
 
 or
 
 ```
-chmod +x monte.lua
-./monte.lua
+chmod +x montecarlo.lua
+./montecarlo.lua
 ```
 
 or
 
 ```
-luac -s monte.lua
+luac -s montecarlo.lua
 lua luac.out
 ```
 
