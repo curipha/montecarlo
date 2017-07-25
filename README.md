@@ -80,9 +80,23 @@ luac -s monte.lua
 lua luac.out
 ```
 
+### Go
+
+https://golang.org/
+
+```
+go run montecarlo.go
+```
+
+or
+
+```
+go build montecarlo.go
+./montecarlo
+```
+
 ### Maybe added in the future...
 
-- Go
 - D
 
 ## References
